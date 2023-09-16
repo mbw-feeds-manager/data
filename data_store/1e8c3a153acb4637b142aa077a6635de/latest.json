@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Repository\u2019s Contributing Guidelines available via GraphQL API",
+    "link": "https://github.blog/changelog/2023-09-15-repositorys-contributing-guidelines-available-via-graphql-api",
+    "published": "Fri, 15 Sep 2023 20:34:02 +0000",
+    "summary": "<p>Repository's Contributing Guidelines available via GraphQL API</p>\n<p>The post <a href=\"https://github.blog/changelog/2023-09-15-repositorys-contributing-guidelines-available-via-graphql-api\" rel=\"nofollow\">Repository&#8217;s Contributing Guidelines available via GraphQL API</a> appeared first on <a href=\"https://github.blog\" rel=\"nofollow\">The GitHub Blog</a>.</p>",
+    "source_id": "1e8c3a153acb4637b142aa077a6635de",
+    "feed_hash": "b2fc68df3c9633e815c4abe45b5b31fd"
+  },
+  {
+    "title": "Custom auto-triage rules for Dependabot alerts (public beta)",
+    "link": "https://github.blog/changelog/2023-09-14-custom-auto-triage-rules-for-dependabot-alerts-public-beta",
+    "published": "Thu, 14 Sep 2023 17:34:02 +0000",
+    "summary": "<p>Custom auto-triage rules for Dependabot alerts (public beta)</p>\n<p>The post <a href=\"https://github.blog/changelog/2023-09-14-custom-auto-triage-rules-for-dependabot-alerts-public-beta\" rel=\"nofollow\">Custom auto-triage rules for Dependabot alerts (public beta)</a> appeared first on <a href=\"https://github.blog\" rel=\"nofollow\">The GitHub Blog</a>.</p>",
+    "source_id": "1e8c3a153acb4637b142aa077a6635de",
+    "feed_hash": "d437247e4adc4d27cec980817e454656"
+  },
+  {
+    "title": "Private Beta \u2013 Expand supported audit log event types with SAML SSO authentication data",
+    "link": "https://github.blog/changelog/2023-09-14-private-beta-expand-supported-audit-log-event-types-with-saml-sso-authentication-data",
+    "published": "Thu, 14 Sep 2023 16:01:41 +0000",
+    "summary": "<p>Private Beta - Expand supported audit log event types with SAML SSO authentication data</p>\n<p>The post <a href=\"https://github.blog/changelog/2023-09-14-private-beta-expand-supported-audit-log-event-types-with-saml-sso-authentication-data\" rel=\"nofollow\">Private Beta &#8211; Expand supported audit log event types with SAML SSO authentication data</a> appeared first on <a href=\"https://github.blog\" rel=\"nofollow\">The GitHub Blog</a>.</p>",
+    "source_id": "1e8c3a153acb4637b142aa077a6635de",
+    "feed_hash": "8268617c99055e7ac3dcbfab393f038a"
+  },
+  {
+    "title": "GitHub Actions \u2013 Updates to GITHUB_REF and github.ref",
+    "link": "https://github.blog/changelog/2023-09-13-github-actions-updates-to-github_ref-and-github-ref",
+    "published": "Wed, 13 Sep 2023 23:04:12 +0000",
+    "summary": "<p>GitHub Actions - Updates to GITHUB_REF and github.ref</p>\n<p>The post <a href=\"https://github.blog/changelog/2023-09-13-github-actions-updates-to-github_ref-and-github-ref\" rel=\"nofollow\">GitHub Actions &#8211; Updates to GITHUB_REF and github.ref</a> appeared first on <a href=\"https://github.blog\" rel=\"nofollow\">The GitHub Blog</a>.</p>",
+    "source_id": "1e8c3a153acb4637b142aa077a6635de",
+    "feed_hash": "a8148b10575eaaf688029503259bffe1"
+  },
+  {
+    "title": "Self-Serve Enterprise can grant sponsorships permission to organization",
+    "link": "https://github.blog/changelog/2023-09-12-self-serve-enterprise-can-grant-sponsorships-permission-to-organization",
+    "published": "Wed, 13 Sep 2023 00:48:16 +0000",
+    "summary": "<p>Self-Serve Enterprise can grant sponsorships permission to organization </p>\n<p>The post <a href=\"https://github.blog/changelog/2023-09-12-self-serve-enterprise-can-grant-sponsorships-permission-to-organization\" rel=\"nofollow\">Self-Serve Enterprise can grant sponsorships permission to organization</a> appeared first on <a href=\"https://github.blog\" rel=\"nofollow\">The GitHub Blog</a>.</p>",
+    "source_id": "1e8c3a153acb4637b142aa077a6635de",
+    "feed_hash": "3d98f89ddcad515f532c0ed33f030318"
+  },
+  {
+    "title": "CSV export functionality for the organization-level risk and coverage pages on the Security tab",
+    "link": "https://github.blog/changelog/2023-09-12-csv-export-functionality-for-the-organization-level-risk-and-coverage-pages-on-the-security-tab",
+    "published": "Tue, 12 Sep 2023 22:20:12 +0000",
+    "summary": "<p>You can now export data from the risk and coverage pages to a comma-separated values (CSV) file. This feature supports exporting repository-specific data based on applied filters. Learn more about the risk and coverage pages and send us your feedback</p>\n<p>The post <a href=\"https://github.blog/changelog/2023-09-12-csv-export-functionality-for-the-organization-level-risk-and-coverage-pages-on-the-security-tab\" rel=\"nofollow\">CSV export functionality for the organization-level risk and coverage pages on the Security tab</a> appeared first on <a href=\"https://github.blog\" rel=\"nofollow\">The GitHub Blog</a>.</p>",
+    "source_id": "1e8c3a153acb4637b142aa077a6635de",
+    "feed_hash": "71d643ddd2414a66e35caad8556bfdd1"
+  },
+  {
+    "title": "Dependency review support for dependency submission results",
+    "link": "https://github.blog/changelog/2023-09-08-dependency-review-support-for-dependency-submission-results",
+    "published": "Sat, 09 Sep 2023 01:08:53 +0000",
+    "summary": "<p>Dependency review support for dependency submission results</p>\n<p>The post <a href=\"https://github.blog/changelog/2023-09-08-dependency-review-support-for-dependency-submission-results\" rel=\"nofollow\">Dependency review support for dependency submission results</a> appeared first on <a href=\"https://github.blog\" rel=\"nofollow\">The GitHub Blog</a>.</p>",
+    "source_id": "1e8c3a153acb4637b142aa077a6635de",
+    "feed_hash": "a448307d7ae1303bc242327e09bf59ed"
+  },
+  {
+    "title": "[Private Beta] Sign up for full access to the GHEC Enterprise Managed Users SCIM API",
+    "link": "https://github.blog/changelog/2023-09-08-private-beta-sign-up-for-full-access-to-the-ghec-enterprise-managed-users-scim-api",
+    "published": "Fri, 08 Sep 2023 13:11:45 +0000",
+    "summary": "<p>[Private Beta] Sign up for full access to the GHEC Enterprise Managed Users SCIM API</p>\n<p>The post <a href=\"https://github.blog/changelog/2023-09-08-private-beta-sign-up-for-full-access-to-the-ghec-enterprise-managed-users-scim-api\" rel=\"nofollow\">[Private Beta] Sign up for full access to the GHEC Enterprise Managed Users SCIM API</a> appeared first on <a href=\"https://github.blog\" rel=\"nofollow\">The GitHub Blog</a>.</p>",
+    "source_id": "1e8c3a153acb4637b142aa077a6635de",
+    "feed_hash": "af28a478aec38822f9cbf3045c1442ea"
+  },
+  {
+    "title": "Updated IP ranges for GitHub Enterprise Importer",
+    "link": "https://github.blog/changelog/2023-09-08-updated-ip-ranges-for-github-enterprise-importer",
+    "published": "Fri, 08 Sep 2023 11:29:26 +0000",
+    "summary": "<p>Updated IP ranges for GitHub Enterprise Importer</p>\n<p>The post <a href=\"https://github.blog/changelog/2023-09-08-updated-ip-ranges-for-github-enterprise-importer\" rel=\"nofollow\">Updated IP ranges for GitHub Enterprise Importer</a> appeared first on <a href=\"https://github.blog\" rel=\"nofollow\">The GitHub Blog</a>.</p>",
+    "source_id": "1e8c3a153acb4637b142aa077a6635de",
+    "feed_hash": "20c7a90c8b904952f231c0a7fea98ba1"
+  },
+  {
+    "title": "New 2FA account recovery options via password reset flow",
+    "link": "https://github.blog/changelog/2023-09-07-new-2fa-account-recovery-options-via-password-reset-flow",
+    "published": "Thu, 07 Sep 2023 20:33:28 +0000",
+    "summary": "<p>New 2FA account recovery options via password reset flow</p>\n<p>The post <a href=\"https://github.blog/changelog/2023-09-07-new-2fa-account-recovery-options-via-password-reset-flow\" rel=\"nofollow\">New 2FA account recovery options via password reset flow</a> appeared first on <a href=\"https://github.blog\" rel=\"nofollow\">The GitHub Blog</a>.</p>",
+    "source_id": "1e8c3a153acb4637b142aa077a6635de",
+    "feed_hash": "255fe0c2a5406f39612f44152d35ba44"
+  }
+]
