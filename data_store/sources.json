@@ -26,5 +26,12 @@
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW0gH2G-cMKAEjEkI4YhnPA",
     "description": "Sharing a passion for all things Tolkien!  On Nerd of the Rings, I'll post videos explaining characters and concepts from Middle-earth history, map the travels and events, gaming, Amazon's Rings of Power series ( #LOTRonPrime ), and more!  If you love the Hobbit, The Lord of the Rings, the Silmarillion, the books, the movies, the music - any and all of Middle-earth, please subscribe and join me in this adventure.  I am honored to share this love of Tolkien with such excellent and admirable hobbits!  ",
     "state": "active"
+  },
+  {
+    "id": "c0f393de6d564a29934d4a67dc65f873",
+    "name": "PBS Space Time",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g",
+    "description": "",
+    "state": "active"
   }
 ]
