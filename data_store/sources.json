@@ -33,5 +33,12 @@
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g",
     "description": "",
     "state": "active"
+  },
+  {
+    "id": "c40fb6fc5a4f44e680a010a802905c68",
+    "name": "It's Okay to Be Smart",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH4BNI0-FOK2dMXoFtViWHw",
+    "description": "",
+    "state": "active"
   }
 ]
